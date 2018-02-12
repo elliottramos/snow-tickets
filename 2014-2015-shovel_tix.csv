@@ -1,0 +1,511 @@
+Violation Street Number,Violation Street Direction,Violation Street Name,Violation Description,Violation Date,Violation Time,Issuing Agency,Month,Date,Year,Latitude,Longitude
+82**,S,ELLIS,10-8-180    Snow and ice removal.,1/2/2015,3:56 AM,Police,1/1/1900,2,2015,41.7456303,-87.6005456
+56**,S,RACINE,10-8-180    Snow and ice removal.,1/5/2015,3:12 AM,Transportation,1/1/1900,5,2015,41.79222,-87.655181
+56**,S,GREEN,10-8-180    Snow and ice removal.,1/7/2015,4:54 AM,Police,1/1/1900,7,2015,41.7923046,-87.646681
+59**,W,IRVING PARK,10-8-180    Snow and ice removal.,1/9/2015,12:00 PM,Streets and Sanitation,1/1/1900,9,2015,41.953385,-87.774787
+55**,N,WESTERN,10-8-180    Snow and ice removal.,1/9/2015,12:00 PM,Streets and Sanitation,1/1/1900,9,2015,41.9816355,-87.6897742
+53**,W,IRVING PARK,10-8-180    Snow and ice removal.,1/9/2015,12:00 PM,Streets and Sanitation,1/1/1900,9,2015,41.953529,-87.759848
+60**,W,ADDISON,10-8-180    Snow and ice removal.,1/9/2015,2:55 AM,Transportation,1/1/1900,9,2015,41.9459856,-87.7767859
+35**,W,DEVON,10-8-180    Snow and ice removal.,1/9/2015,2:35 AM,Transportation,1/1/1900,9,2015,41.9974783,-87.7169382
+30**,W,PETERSON,10-8-180    Snow and ice removal.,1/9/2015,2:45 AM,Transportation,1/1/1900,9,2015,41.9906557,-87.7045018
+22**,N,KIMBALL,10-8-180    Snow and ice removal.,1/9/2015,2:25 AM,Transportation,1/1/1900,9,2015,41.9211273,-87.7122496
+64**,S,ST LAWRENCE,10-8-180    Snow and ice removal.,1/9/2015,12:20 PM,Transportation,1/1/1900,9,2015,41.778364,-87.6110465
+64**,S,ST LAWRENCE,10-8-180    Snow and ice removal.,1/9/2015,12:17 PM,Transportation,1/1/1900,9,2015,41.778364,-87.6110465
+64**,S,ST LAWRENCE,10-8-180    Snow and ice removal.,1/9/2015,12:18 PM,Transportation,1/1/1900,9,2015,41.778364,-87.6110465
+27**,N,LARAMIE,10-8-180    Snow and ice removal.,1/12/2015,12:00 PM,Streets and Sanitation,1/1/1900,12,2015,41.9297159,-87.7565047
+30**,W,JACKSON,10-8-180    Snow and ice removal.,1/12/2015,9:29 AM,Transportation,1/1/1900,12,2015,41.8776497,-87.7012653
+32**,W,PALMER,10-8-180    Snow and ice removal.,1/12/2015,11:40 AM,Transportation,1/1/1900,12,2015,41.9214488,-87.7069979
+2**,W,31ST,10-8-180    Snow and ice removal.,1/12/2015,11:36 AM,Transportation,1/1/1900,12,2015,41.8384586,-87.6320873
+83**,S,ADA,10-8-180    Snow and ice removal.,1/13/2015,4:21 AM,Police,1/1/1900,13,2015,41.7430266,-87.657441
+83**,S,HERMITAGE,10-8-180    Snow and ice removal.,1/13/2015,4:37 AM,Police,1/1/1900,13,2015,41.742758,-87.667169
+55**,N,WESTERN,10-8-180    Snow and ice removal.,1/13/2015,12:00 PM,Streets and Sanitation,1/1/1900,13,2015,41.9816355,-87.6897742
+7**,E,103RD,10-8-180    Snow and ice removal.,1/13/2015,1:15 AM,Transportation,1/1/1900,13,2015,41.7074464,-87.6064881
+3**,E,103RD,10-8-180    Snow and ice removal.,1/13/2015,12:58 PM,Transportation,1/1/1900,13,2015,41.707502,-87.615967
+2**,E,103RD,10-8-180    Snow and ice removal.,1/13/2015,12:56 PM,Transportation,1/1/1900,13,2015,41.707567,-87.6182576
+3**,E,103RD,10-8-180    Snow and ice removal.,1/13/2015,12:54 PM,Transportation,1/1/1900,13,2015,41.707502,-87.615967
+1**,E,103RD,10-8-180    Snow and ice removal.,1/13/2015,12:48 PM,Transportation,1/1/1900,13,2015,41.7072104,-87.6202083
+2**,E,103RD,10-8-180    Snow and ice removal.,1/13/2015,12:45 PM,Transportation,1/1/1900,13,2015,41.707567,-87.6182576
+**,S,WESTERN,10-8-180    Snow and ice removal.,1/13/2015,9:51 AM,Transportation,1/1/1900,13,2015,41.8811617,-87.6864795
+14**,S,WESTERN,10-8-180    Snow and ice removal.,1/13/2015,10:04 AM,Transportation,1/1/1900,13,2015,41.8627535,-87.6863072
+**,W,108TH,10-8-180    Snow and ice removal.,1/13/2015,11:10 AM,Transportation,1/1/1900,13,2015,41.6980495,-87.6232812
+108**,S,WESTERN,10-8-180    Snow and ice removal.,1/13/2015,11:10 AM,Transportation,1/1/1900,13,2015,41.6967998,-87.6816635
+**,W,107TH,10-8-180    Snow and ice removal.,1/13/2015,11:10 AM,Transportation,1/1/1900,13,2015,41.6998737,-87.6233252
+**,S,HALE,10-8-180    Snow and ice removal.,1/13/2015,2:35 AM,Transportation,1/1/1900,13,2015,41.691943,-87.6709425
+**,W,111TH,10-8-180    Snow and ice removal.,1/13/2015,12:50 PM,Transportation,1/1/1900,13,2015,41.6928271,-87.6234018
+60**,S,ARCHER,10-8-180    Snow and ice removal.,1/13/2015,2:15 AM,Transportation,1/1/1900,13,2015,41.7953771,-87.7666047
+**,E,GARFIELD,10-8-180    Snow and ice removal.,1/13/2015,11:13 AM,Transportation,1/1/1900,13,2015,41.7943312,-87.6245401
+26**,S,ARCHER,10-8-180    Snow and ice removal.,1/13/2015,12:23 PM,Transportation,1/1/1900,13,2015,41.8456208,-87.6505183
+**,S,MORGAN,10-8-180    Snow and ice removal.,1/13/2015,11:15 AM,Transportation,1/1/1900,13,2015,41.8816942,-87.6520559
+8**,S,WELLS,10-8-180    Snow and ice removal.,1/13/2015,9:30 AM,Transportation,1/1/1900,13,2015,41.8714475,-87.634244
+2**,S,DES PLAINES,10-8-180    Snow and ice removal.,1/13/2015,9:45 AM,Transportation,1/1/1900,13,2015,41.8792559,-87.6440425
+6**,S,WABASH,10-8-180    Snow and ice removal.,1/13/2015,8:15 AM,Transportation,1/1/1900,13,2015,41.8742714,-87.626304
+36**,W,DICKENS,10-8-180    Snow and ice removal.,1/13/2015,3:15 AM,Transportation,1/1/1900,13,2015,41.9191086,-87.7168296
+16**,W,79TH,10-8-180    Snow and ice removal.,1/13/2015,2:15 AM,Transportation,1/1/1900,13,2015,41.7503396,-87.663523
+83**,S,HERMITAGE,10-8-180    Snow and ice removal.,1/14/2015,6:37 AM,Police,1/1/1900,14,2015,41.742758,-87.667169
+7**,N,TRUMBULL,10-8-180    Snow and ice removal.,1/14/2015,12:00 PM,Streets and Sanitation,1/1/1900,14,2015,41.89366,-87.7125887
+52**,N,WESTERN,10-8-180    Snow and ice removal.,1/14/2015,11:50 AM,Transportation,1/1/1900,14,2015,41.9758945,-87.6892147
+42**,W,BRYN MAWR,10-8-180    Snow and ice removal.,1/14/2015,10:50 AM,Transportation,1/1/1900,14,2015,41.982945,-87.7334834
+32**,N,KIMBALL,10-8-180    Snow and ice removal.,1/14/2015,1:40 AM,Transportation,1/1/1900,14,2015,41.9395151,-87.7127127
+50**,N,PULASKI,10-8-180    Snow and ice removal.,1/14/2015,11:30 AM,Transportation,1/1/1900,14,2015,41.9718807,-87.7281253
+66**,S,STONY ISLAND,10-8-180    Snow and ice removal.,1/14/2015,11:14 AM,Transportation,1/1/1900,14,2015,41.7751579,-87.586328
+56**,N,MILWAUKEE,10-8-180    Snow and ice removal.,1/15/2015,12:00 PM,Streets and Sanitation,1/1/1900,15,2015,41.9830479,-87.774826
+66**,S,STONY ISLAND,10-8-180    Snow and ice removal.,1/15/2015,10:14 AM,Transportation,1/1/1900,15,2015,41.7751579,-87.586328
+25**,W,58TH,10-8-180    Snow and ice removal.,1/15/2015,8:04 AM,Transportation,1/1/1900,15,2015,41.7883883,-87.6864515
+4**,N,SANGAMON,10-8-180    Snow and ice removal.,1/15/2015,8:59 AM,Transportation,1/1/1900,15,2015,41.8890102,-87.6510645
+25**,W,CERMAK,10-8-180    Snow and ice removal.,1/15/2015,10:46 AM,Transportation,1/1/1900,15,2015,41.8520077,-87.6876028
+**,E,76TH,10-8-180    Snow and ice removal.,1/15/2015,4:23 AM,Transportation,1/1/1900,15,2015,41.7564388,-87.624713
+75**,S,BLACKSTONE,10-8-180    Snow and ice removal.,1/15/2015,4:33 AM,Transportation,1/1/1900,15,2015,41.7587353,-87.5883556
+15**,E,75TH,10-8-180    Snow and ice removal.,1/15/2015,4:17 AM,Transportation,1/1/1900,15,2015,41.7590239,-87.5880899
+58**,W,IRVING PARK,10-8-180    Snow and ice removal.,1/16/2015,12:00 PM,Streets and Sanitation,1/1/1900,16,2015,41.9533975,-87.7722081
+55**,W,MONTROSE,10-8-180    Snow and ice removal.,1/16/2015,12:00 PM,Streets and Sanitation,1/1/1900,16,2015,41.9608662,-87.764999
+23**,W,JACKSON,10-8-180    Snow and ice removal.,1/16/2015,11:15 AM,Transportation,1/1/1900,16,2015,41.877848,-87.684441
+**,E,66TH,10-8-180    Snow and ice removal.,1/16/2015,1:08 AM,Transportation,1/1/1900,16,2015,41.7746166,-87.6239718
+*,W,58TH,10-8-180    Snow and ice removal.,1/16/2015,1:37 AM,Transportation,1/1/1900,16,2015,41.7868961,-87.7193116
+2**,W,99TH,10-8-180    Snow and ice removal.,1/27/2015,5:23 AM,Police,1/1/1900,27,2015,41.7141352,-87.6285214
+101**,S,EBERHART,10-8-180    Snow and ice removal.,1/27/2015,5:35 AM,Police,1/1/1900,27,2015,41.7108614,-87.6116476
+**,E,101,10-8-180    Snow and ice removal.,1/27/2015,10:00 AM,Police,1/1/1900,27,2015,41.7108113,-87.6235295
+**,E,101,10-8-180    Snow and ice removal.,1/27/2015,10:30 AM,Police,1/1/1900,27,2015,41.7108113,-87.6235295
+102**,S,STATE,10-8-180    Snow and ice removal.,1/27/2015,10:45 AM,Police,1/1/1900,27,2015,41.7088356,-87.6238895
+109**,S,WENTWORTH,10-8-180    Snow and ice removal.,1/27/2015,11:00 AM,Police,1/1/1900,27,2015,41.6960018,-87.6283027
+105**,S,STATE,10-8-180    Snow and ice removal.,1/27/2015,11:10 AM,Police,1/1/1900,27,2015,41.8781136,-87.6297982
+61**,S,GREENWOOD,10-8-180    Snow and ice removal.,1/27/2015,12:00 PM,Streets and Sanitation,1/1/1900,27,2015,41.7840868,-87.5995208
+59**,N,ELSTON,10-8-180    Snow and ice removal.,1/27/2015,12:49 PM,Transportation,1/1/1900,27,2015,41.9887332,-87.7755129
+59**,W,PETERSON,10-8-180    Snow and ice removal.,1/27/2015,12:36 PM,Transportation,1/1/1900,27,2015,41.9901782,-87.7505887
+23**,W,JACKSON,10-8-180    Snow and ice removal.,1/27/2015,10:15 AM,Transportation,1/1/1900,27,2015,41.877848,-87.684441
+7**,N,MILWAUKEE,10-8-180    Snow and ice removal.,1/28/2015,12:00 PM,Streets and Sanitation,1/1/1900,28,2015,41.8949067,-87.6538063
+7**,E,104TH,10-8-180    Snow and ice removal.,1/29/2015,7:35 AM,Police,1/1/1900,29,2015,41.7056274,-87.6068612
+7**,E,104TH,10-8-180    Snow and ice removal.,1/29/2015,7:40 AM,Police,1/1/1900,29,2015,41.7056274,-87.6068612
+3**,W,106TH,10-8-180    Snow and ice removal.,1/29/2015,8:00 AM,Police,1/1/1900,29,2015,41.7008906,-87.6306966
+**,E,101ST,10-8-180    Snow and ice removal.,1/29/2015,7:26 AM,Police,1/1/1900,29,2015,41.7108113,-87.6235295
+38**,N,WESTERN,10-8-180    Snow and ice removal.,2/2/2015,11:15 AM,Police,1/2/1900,2,2015,41.9504997,-87.6886394
+36**,N,WESTERN,10-8-180    Snow and ice removal.,2/2/2015,11:31 AM,Police,1/2/1900,2,2015,41.9468615,-87.6885182
+34**,N,WESTERN,10-8-180    Snow and ice removal.,2/2/2015,11:44 AM,Police,1/2/1900,2,2015,41.9435709,-87.6900603
+**,S,ELLIS,10-8-180    Snow and ice removal.,2/2/2015,3:49 AM,Police,1/2/1900,2,2015,41.7804559,-87.6010685
+*,S,INGLESIDE,10-8-180    Snow and ice removal.,2/2/2015,4:26 AM,Police,1/2/1900,2,2015,41.7606407,-87.6017403
+82**,S,ELLIS,10-8-180    Snow and ice removal.,2/2/2015,3:56 AM,Police,1/2/1900,2,2015,41.7456303,-87.6005456
+82**,S,ELLIS,10-8-180    Snow and ice removal.,2/2/2015,4:03 AM,Police,1/2/1900,2,2015,41.7456303,-87.6005456
+9**,E,83RD,10-8-180    Snow and ice removal.,2/2/2015,4:12 AM,Police,1/2/1900,2,2015,41.7441845,-87.6022989
+82**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/2/2015,4:20 AM,Police,1/2/1900,2,2015,41.745692,-87.601735
+81**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/2/2015,4:42 AM,Police,1/2/1900,2,2015,41.7474931,-87.6017913
+80**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/2/2015,4:49 AM,Police,1/2/1900,2,2015,41.7493446,-87.6017385
+82**,S,DREXEL,10-8-180    Snow and ice removal.,2/2/2015,5:22 AM,Police,1/2/1900,2,2015,41.7456429,-87.6027935
+9**,E,82ND,10-8-180    Snow and ice removal.,2/2/2015,3:35 AM,Police,1/2/1900,2,2015,41.7459599,-87.6023495
+82**,S,ELLIS,10-8-180    Snow and ice removal.,2/2/2015,3:43 AM,Police,1/2/1900,2,2015,41.7456303,-87.6005456
+65**,S,RHODES,10-8-180    Snow and ice removal.,2/2/2015,8:45 AM,Transportation,1/2/1900,2,2015,41.7765518,-87.6121983
+33**,N,WESTERN,10-8-180    Snow and ice removal.,2/3/2015,2:38 AM,Police,1/2/1900,3,2015,41.9413669,-87.6899035
+82**,S,MARYLAND,10-8-180    Snow and ice removal.,2/3/2015,4:24 AM,Police,1/2/1900,3,2015,41.745601,-87.604151
+82**,S,MARYLAND,10-8-180    Snow and ice removal.,2/3/2015,4:18 AM,Police,1/2/1900,3,2015,41.745601,-87.604151
+2**,W,31ST,10-8-180    Snow and ice removal.,2/3/2015,3:10 AM,Transportation,1/2/1900,3,2015,41.8384586,-87.6320873
+39**,W,111TH,10-8-180    Snow and ice removal.,2/3/2015,8:55 AM,Transportation,1/2/1900,3,2015,41.6913039,-87.7179037
+39**,W,111TH,10-8-180    Snow and ice removal.,2/3/2015,8:55 AM,Transportation,1/2/1900,3,2015,41.6913039,-87.7179037
+39**,W,111TH,10-8-180    Snow and ice removal.,2/3/2015,8:55 AM,Transportation,1/2/1900,3,2015,41.6913039,-87.7179037
+37**,W,111TH,10-8-180    Snow and ice removal.,2/3/2015,10:10 AM,Transportation,1/2/1900,3,2015,41.6917303,-87.7135117
+103**,S,CLAREMONT,10-8-180    Snow and ice removal.,2/3/2015,12:05 PM,Transportation,1/2/1900,3,2015,41.7063236,-87.6804068
+23**,W,103RD,10-8-180    Snow and ice removal.,2/3/2015,12:05 PM,Transportation,1/2/1900,3,2015,41.7064358,-87.6792388
+30**,S,HALSTED,10-8-180    Snow and ice removal.,2/3/2015,10:20 AM,Transportation,1/2/1900,3,2015,41.8396357,-87.6471548
+**,W,ILLINOIS,10-8-180    Snow and ice removal.,2/4/2015,3:00 AM,Police,1/2/1900,4,2015,41.8908803,-87.6280557
+78**,S,LAFLIN,10-8-180    Snow and ice removal.,2/4/2015,3:27 AM,Police,1/2/1900,4,2015,41.752014,-87.662347
+78**,S,LAFLIN,10-8-180    Snow and ice removal.,2/4/2015,3:35 AM,Police,1/2/1900,4,2015,41.752014,-87.662347
+78**,S,LAFIN,10-8-180    Snow and ice removal.,2/4/2015,3:38 AM,Police,1/2/1900,4,2015,41.752014,-87.662347
+14**,W,77TH,10-8-180    Snow and ice removal.,2/4/2015,3:57 AM,Police,1/2/1900,4,2015,41.7540555,-87.6586976
+79**,S,BISHOP,10-8-180    Snow and ice removal.,2/4/2015,4:08 AM,Police,1/2/1900,4,2015,41.7503959,-87.6598042
+61**,S,GREENWOOD,10-8-180    Snow and ice removal.,2/4/2015,8:07 AM,Transportation,1/2/1900,4,2015,41.7840868,-87.5995208
+65**,S,RHODES,10-8-180    Snow and ice removal.,2/4/2015,8:39 AM,Transportation,1/2/1900,4,2015,41.7765518,-87.6121983
+35**,S,DAMEN,10-8-180    Snow and ice removal.,2/4/2015,2:30 AM,Transportation,1/2/1900,4,2015,41.8303914,-87.6752753
+5**,W,35TH,10-8-180    Snow and ice removal.,2/4/2015,11:15 AM,Transportation,1/2/1900,4,2015,41.830985,-87.6389805
+22**,S,MICHIGAN,10-8-180    Snow and ice removal.,2/5/2015,9:00 AM,Police,1/2/1900,5,2015,41.8526615,-87.6241779
+22**,S,MICHIGAN,10-8-180    Snow and ice removal.,2/5/2015,5:30 AM,Police,1/2/1900,5,2015,41.8526615,-87.6241779
+9**,E,82ND,10-8-180    Snow and ice removal.,2/5/2015,5:00 AM,Police,1/2/1900,5,2015,41.7459599,-87.6023495
+81**,S,MARYLAND,10-8-180    Snow and ice removal.,2/5/2015,4:40 AM,Police,1/2/1900,5,2015,41.7475364,-87.6039078
+82**,S,MARYLAND,10-8-180    Snow and ice removal.,2/5/2015,4:30 AM,Police,1/2/1900,5,2015,41.745601,-87.604151
+9**,E,82ND,10-8-180    Snow and ice removal.,2/5/2015,5:07 AM,Police,1/2/1900,5,2015,41.7459599,-87.6023495
+9**,E,82ND,10-8-180    Snow and ice removal.,2/5/2015,5:01 AM,Police,1/2/1900,5,2015,41.7459599,-87.6023495
+8**,E,82ND,10-8-180    Snow and ice removal.,2/5/2015,4:55 AM,Police,1/2/1900,5,2015,41.7457904,-87.6050199
+*,S,MARYLAND,10-8-180    Snow and ice removal.,2/5/2015,4:34 AM,Police,1/2/1900,5,2015,41.7540266,-87.6040275
+82**,S,MARYLAND,10-8-180    Snow and ice removal.,2/5/2015,4:26 AM,Police,1/2/1900,5,2015,41.745601,-87.604151
+82**,S,MARYLAND,10-8-180    Snow and ice removal.,2/5/2015,4:18 AM,Police,1/2/1900,5,2015,41.745601,-87.604151
+82**,S,MARYLAND,10-8-180    Snow and ice removal.,2/5/2015,4:14 AM,Police,1/2/1900,5,2015,41.745601,-87.604151
+23**,E,79TH,10-8-180    Snow and ice removal.,2/5/2015,10:00 AM,Transportation,1/2/1900,5,2015,41.7516894,-87.5686523
+78**,S,CRANDON,10-8-180    Snow and ice removal.,2/5/2015,10:00 AM,Transportation,1/2/1900,5,2015,41.753357,-87.5689895
+4**,N,SANGAMON,10-8-180    Snow and ice removal.,2/5/2015,1:13 AM,Transportation,1/2/1900,5,2015,41.8890102,-87.6510645
+77**,S,MICHIGAN,10-8-180    Snow and ice removal.,2/5/2015,10:15 AM,Transportation,1/2/1900,5,2015,41.754496,-87.6218403
+79**,S,THROOP,10-8-180    Snow and ice removal.,2/6/2015,7:45 AM,Police,1/2/1900,6,2015,41.7504538,-87.6561822
+82**,S,ELIZABETH,10-8-180    Snow and ice removal.,2/6/2015,5:15 AM,Police,1/2/1900,6,2015,41.7448469,-87.6551259
+82**,S,JUSTINE,10-8-180    Snow and ice removal.,2/6/2015,4:05 AM,Police,1/2/1900,6,2015,41.7448789,-87.6620825
+14**,W,81ST,10-8-180    Snow and ice removal.,2/6/2015,3:55 AM,Police,1/2/1900,6,2015,41.7467729,-87.6584968
+67**,S,DORCHESTER,10-8-180    Snow and ice removal.,2/6/2015,4:16 AM,Police,1/2/1900,6,2015,41.7731303,-87.5914405
+24**,N,LINCOLN,10-8-180    Snow and ice removal.,2/6/2015,12:00 PM,Streets and Sanitation,1/2/1900,6,2015,41.9255728,-87.6492489
+24**,N,CICERO,10-8-180    Snow and ice removal.,2/6/2015,12:00 PM,Streets and Sanitation,1/2/1900,6,2015,41.9242812,-87.7463576
+21**,S,PRAIRIE,10-8-180    Snow and ice removal.,2/6/2015,10:00 AM,Transportation,1/2/1900,6,2015,41.854103,-87.621154
+14**,W,15TH,10-8-180    Snow and ice removal.,2/6/2015,11:30 AM,Transportation,1/2/1900,6,2015,41.8615216,-87.6614411
+32**,S,ARCHER,10-8-180    Snow and ice removal.,2/6/2015,8:30 AM,Transportation,1/2/1900,6,2015,41.8361685,-87.6688775
+4**,E,87TH,10-8-180    Snow and ice removal.,2/6/2015,9:08 AM,Transportation,1/2/1900,6,2015,41.7367811,-87.6141172
+3**,E,87TH,10-8-180    Snow and ice removal.,2/6/2015,9:10 AM,Transportation,1/2/1900,6,2015,41.7367106,-87.6175121
+28**,S,HALSTED,10-8-180    Snow and ice removal.,2/6/2015,3:00 AM,Transportation,1/2/1900,6,2015,41.8434758,-87.6464289
+10**,W,31ST,10-8-180    Snow and ice removal.,2/6/2015,2:00 AM,Transportation,1/2/1900,6,2015,41.836848,-87.6700393
+13**,N,WELLS,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9057272,-87.6345481
+54**,S,UNION,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.796033,-87.6430733
+4**,W,WRIGHTWOOD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9313456,-87.6393299
+6**,W,WRIGHTWOOD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9296712,-87.6429606
+54**,S,UNION,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.796033,-87.6430733
+13**,N,WELLS,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9057272,-87.6345481
+13**,N,WELLS,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9057272,-87.6345481
+18**,N,SEDGWICK,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.914948,-87.6389362
+14**,N,ASTOR,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.907921,-87.62791
+53**,S,EMERALD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.7978,-87.644364
+7**,W,54TH,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.7953661,-87.643103
+53**,S,EMERALD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.7978,-87.644364
+7**,W,54TH,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.7953661,-87.643103
+1**,W,EUGENIE,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9131844,-87.6335698
+30**,N,ASHLAND,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9361989,-87.6688442
+18**,N,HUDSON,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9147745,-87.6401945
+49**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.805199,-87.6454398
+7**,W,54TH,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.7953661,-87.643103
+4**,W,WRIGHTWOOD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9313456,-87.6393299
+51**,S,EMERALD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.8014273,-87.6443825
+8**,W,WRIGHTWOOD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.9290807,-87.6488814
+53**,S,EMERALD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.7978,-87.644364
+53**,S,EMERALD,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Streets and Sanitation,1/2/1900,7,2015,41.7978,-87.644364
+8**,W,82ND,10-8-180    Snow and ice removal.,2/7/2015,11:15 AM,Transportation,1/2/1900,7,2015,41.7451765,-87.6438714
+81**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,11:00 AM,Transportation,1/2/1900,7,2015,41.7467977,-87.6444113
+14**,E,87TH,10-8-180    Snow and ice removal.,2/7/2015,1:15 AM,Transportation,1/2/1900,7,2015,41.7370898,-87.5898582
+66**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,8:30 AM,Transportation,1/2/1900,7,2015,41.7742944,-87.6446437
+7**,W,66TH,10-8-180    Snow and ice removal.,2/7/2015,8:50 AM,Transportation,1/2/1900,7,2015,41.7743131,-87.642677
+86**,S,DANTE,10-8-180    Snow and ice removal.,2/7/2015,1:25 AM,Transportation,1/2/1900,7,2015,41.7385429,-87.5893539
+13**,W,87TH,10-8-180    Snow and ice removal.,2/7/2015,11:50 AM,Transportation,1/2/1900,7,2015,41.7361866,-87.6559909
+86**,S,LOOMIS,10-8-180    Snow and ice removal.,2/7/2015,12:00 PM,Transportation,1/2/1900,7,2015,41.7375402,-87.6585157
+80**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,10:45 AM,Transportation,1/2/1900,7,2015,41.748689,-87.6443369
+80**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,1:30 AM,Transportation,1/2/1900,7,2015,41.748689,-87.6443369
+23**,S,WENTWORTH,10-8-180    Snow and ice removal.,2/7/2015,8:52 AM,Transportation,1/2/1900,7,2015,41.850827,-87.632193
+28**,W,55TH,10-8-180    Snow and ice removal.,2/7/2015,8:15 AM,Transportation,1/2/1900,7,2015,41.7939145,-87.6941031
+*,N,ASHLAND,10-8-180    Snow and ice removal.,2/7/2015,10:40 AM,Transportation,1/2/1900,7,2015,41.8814961,-87.6668837
+31**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,1:45 AM,Transportation,1/2/1900,7,2015,41.837714,-87.6460986
+12**,S,WESTERN,10-8-180    Snow and ice removal.,2/7/2015,2:20 AM,Transportation,1/2/1900,7,2015,41.866355,-87.686491
+68**,W,63RD,10-8-180    Snow and ice removal.,2/7/2015,9:46 AM,Transportation,1/2/1900,7,2015,41.7778608,-87.791432
+67**,W,63RD,10-8-180    Snow and ice removal.,2/7/2015,9:30 AM,Transportation,1/2/1900,7,2015,41.7777824,-87.7887339
+71**,S,DR MARTIN LUT,10-8-180    Snow and ice removal.,2/7/2015,9:00 AM,Transportation,1/2/1900,7,2015,41.765452,-87.6157247
+53**,S,ASHLAND,10-8-180    Snow and ice removal.,2/7/2015,8:27 AM,Transportation,1/2/1900,7,2015,41.7975386,-87.664998
+23**,W,LAKE,10-8-180    Snow and ice removal.,2/7/2015,1:50 AM,Transportation,1/2/1900,7,2015,41.8853178,-87.6844403
+23**,S,MICHIGAN,10-8-180    Snow and ice removal.,2/7/2015,11:25 AM,Transportation,1/2/1900,7,2015,41.8508112,-87.624224
+**,W,GARFIELD,10-8-180    Snow and ice removal.,2/7/2015,10:32 AM,Transportation,1/2/1900,7,2015,41.7948628,-87.6261387
+28**,W,63RD,10-8-180    Snow and ice removal.,2/7/2015,9:02 AM,Transportation,1/2/1900,7,2015,41.7793409,-87.6937222
+12**,S,WESTERN,10-8-180    Snow and ice removal.,2/7/2015,2:10 AM,Transportation,1/2/1900,7,2015,41.866355,-87.686491
+55**,S,ASHLAND,10-8-180    Snow and ice removal.,2/7/2015,3:00 AM,Transportation,1/2/1900,7,2015,41.7936347,-87.6646683
+15**,W,GRAND,10-8-180    Snow and ice removal.,2/7/2015,11:00 AM,Transportation,1/2/1900,7,2015,41.8911133,-87.6658231
+27**,S,WELLS,10-8-180    Snow and ice removal.,2/7/2015,1:10 AM,Transportation,1/2/1900,7,2015,41.8439148,-87.6332802
+49**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,2:05 AM,Transportation,1/2/1900,7,2015,41.805199,-87.6454398
+51**,S,HALSTED,10-8-180    Snow and ice removal.,2/7/2015,2:25 AM,Transportation,1/2/1900,7,2015,41.80129,-87.645714
+18**,S,CANAL,10-8-180    Snow and ice removal.,2/7/2015,9:09 AM,Transportation,1/2/1900,7,2015,41.8572579,-87.6392926
+9**,W,49TH,10-8-180    Snow and ice removal.,2/7/2015,2:15 AM,Transportation,1/2/1900,7,2015,41.8044306,-87.648293
+10**,N,ASHLAND,10-8-180    Snow and ice removal.,2/7/2015,11:25 AM,Transportation,1/2/1900,7,2015,41.8996937,-87.6674464
+14**,N,ASHLAND,10-8-180    Snow and ice removal.,2/7/2015,11:40 AM,Transportation,1/2/1900,7,2015,41.9070995,-87.667857
+15**,S,WESTERN,10-8-180    Snow and ice removal.,2/7/2015,10:00 AM,Transportation,1/2/1900,7,2015,41.8607356,-87.6869143
+23**,W,18TH,10-8-180    Snow and ice removal.,2/7/2015,9:50 AM,Transportation,1/2/1900,7,2015,41.8568766,-87.6834742
+11**,W,18TH,10-8-180    Snow and ice removal.,2/7/2015,9:25 AM,Transportation,1/2/1900,7,2015,41.858093,-87.6535769
+4**,W,95TH,10-8-180    Snow and ice removal.,2/7/2015,2:45 AM,Transportation,1/2/1900,7,2015,41.7223692,-87.634245
+25**,W,PETERSON,10-8-180    Snow and ice removal.,2/7/2015,1:26 AM,Transportation,1/2/1900,7,2015,41.990749,-87.692553
+52**,N,MILWAUKEE,10-8-180    Snow and ice removal.,2/7/2015,12:33 PM,Transportation,1/2/1900,7,2015,41.9746439,-87.7668047
+32**,N,KIMBALL,10-8-180    Snow and ice removal.,2/7/2015,11:06 AM,Transportation,1/2/1900,7,2015,41.9395151,-87.7127127
+19**,W,HUBBARD,10-8-180    Snow and ice removal.,2/7/2015,12:58 PM,Transportation,1/2/1900,7,2015,41.8899846,-87.6747717
+3**,W,CHICAGO,10-8-180    Snow and ice removal.,2/7/2015,3:07 AM,Transportation,1/2/1900,7,2015,41.8966542,-87.6360106
+16**,W,GARFIELD,10-8-180    Snow and ice removal.,2/7/2015,8:42 AM,Transportation,1/2/1900,7,2015,41.794293,-87.664955
+22**,W,MARQUETTE,10-8-180    Snow and ice removal.,2/8/2015,10:06 AM,Police,1/2/1900,8,2015,41.772024,-87.6783027
+67**,S,CLAREMONT,10-8-180    Snow and ice removal.,2/8/2015,10:55 AM,Police,1/2/1900,8,2015,41.7719738,-87.682114
+65**,S,CLAREMONT,10-8-180    Snow and ice removal.,2/8/2015,11:00 AM,Police,1/2/1900,8,2015,41.7754674,-87.6824786
+65**,S,CLAREMONT,10-8-180    Snow and ice removal.,2/8/2015,11:10 AM,Police,1/2/1900,8,2015,41.7754674,-87.6824786
+77**,S,LANGLEY,10-8-180    Snow and ice removal.,2/9/2015,7:30 AM,Police,1/2/1900,9,2015,41.754765,-87.60808
+78**,S,LANGLEY,10-8-180    Snow and ice removal.,2/9/2015,7:20 AM,Police,1/2/1900,9,2015,41.7530342,-87.6077093
+77**,S,CHAMPLAIN,10-8-180    Snow and ice removal.,2/9/2015,6:40 AM,Police,1/2/1900,9,2015,41.754736,-87.6091964
+78**,S,CHAMPLAIN,10-8-180    Snow and ice removal.,2/9/2015,6:47 AM,Police,1/2/1900,9,2015,41.752865,-87.609264
+77**,S,LANGLEY,10-8-180    Snow and ice removal.,2/9/2015,7:28 AM,Police,1/2/1900,9,2015,41.754765,-87.60808
+66**,S,ELLIS,10-8-180    Snow and ice removal.,2/9/2015,12:00 PM,Streets and Sanitation,1/2/1900,9,2015,41.7749975,-87.6009207
+66**,S,ELLIS,10-8-180    Snow and ice removal.,2/9/2015,12:00 PM,Streets and Sanitation,1/2/1900,9,2015,41.7749975,-87.6009207
+60**,S,CHAMPLAIN,10-8-180    Snow and ice removal.,2/9/2015,12:00 PM,Streets and Sanitation,1/2/1900,9,2015,41.7855326,-87.6099393
+24**,W,FLOURNOY,10-8-180    Snow and ice removal.,2/9/2015,10:00 AM,Transportation,1/2/1900,9,2015,41.8729833,-87.6862888
+24**,W,FLOURNOY,10-8-180    Snow and ice removal.,2/9/2015,10:15 AM,Transportation,1/2/1900,9,2015,41.8729833,-87.6862888
+66**,S,DAMEN,10-8-180    Snow and ice removal.,2/9/2015,1:40 AM,Transportation,1/2/1900,9,2015,41.7738728,-87.6737641
+57**,N,WESTERN,10-8-180    Snow and ice removal.,2/9/2015,3:00 AM,Transportation,1/2/1900,9,2015,41.9851281,-87.6897896
+24**,W,NORTH SHORE,10-8-180    Snow and ice removal.,2/9/2015,12:55 PM,Transportation,1/2/1900,9,2015,41.9106774,-87.6875416
+12**,W,JACKSON,10-8-180    Snow and ice removal.,2/9/2015,11:25 AM,Transportation,1/2/1900,9,2015,41.8777837,-87.657016
+82**,S,RACINE,10-8-180    Snow and ice removal.,2/9/2015,10:00 AM,Transportation,1/2/1900,9,2015,41.7448652,-87.6540023
+94**,S,STATE,10-8-180    Snow and ice removal.,2/9/2015,11:45 AM,Transportation,1/2/1900,9,2015,41.7235621,-87.6238
+99**,S,WOOD,10-8-180    Snow and ice removal.,2/9/2015,2:37 AM,Transportation,1/2/1900,9,2015,41.7138824,-87.6672242
+94**,S,ASHLAND,10-8-180    Snow and ice removal.,2/9/2015,2:07 AM,Transportation,1/2/1900,9,2015,41.7230339,-87.663452
+48**,N,CLARK,10-8-180    Snow and ice removal.,2/9/2015,3:15 AM,Transportation,1/2/1900,9,2015,41.9692875,-87.6677958
+53**,N,MILWAUKEE,10-8-180    Snow and ice removal.,2/9/2015,9:31 AM,Transportation,1/2/1900,9,2015,41.9764212,-87.7684752
+55**,N,NORTHWEST,10-8-180    Snow and ice removal.,2/9/2015,9:11 AM,Transportation,1/2/1900,9,2015,41.9804085,-87.7784277
+1**,E,95TH,10-8-180    Snow and ice removal.,2/9/2015,8:45 AM,Transportation,1/2/1900,9,2015,41.722097,-87.620339
+32**,N,KEDZIE,10-8-180    Snow and ice removal.,2/9/2015,12:55 PM,Transportation,1/2/1900,9,2015,41.9401715,-87.7076449
+52**,S,MICHIGAN,10-8-180    Snow and ice removal.,2/10/2015,12:31 PM,Police,1/2/1900,10,2015,41.7995388,-87.6226058
+53**,S,INDIANA,10-8-180    Snow and ice removal.,2/10/2015,12:45 PM,Police,1/2/1900,10,2015,41.79802,-87.621398
+51**,S,INDIANA,10-8-180    Snow and ice removal.,2/10/2015,12:51 PM,Police,1/2/1900,10,2015,41.801695,-87.621492
+51**,S,INDIANA,10-8-180    Snow and ice removal.,2/10/2015,12:35 PM,Police,1/2/1900,10,2015,41.801695,-87.621492
+33**,W,NORTH,10-8-180    Snow and ice removal.,2/10/2015,12:00 PM,Streets and Sanitation,1/2/1900,10,2015,41.9103183,-87.7093899
+59**,N,SHERIDAN,10-8-180    Snow and ice removal.,2/10/2015,12:00 PM,Streets and Sanitation,1/2/1900,10,2015,41.989241,-87.6557739
+28**,N,CICERO,10-8-180    Snow and ice removal.,2/10/2015,12:00 PM,Streets and Sanitation,1/2/1900,10,2015,41.931773,-87.747023
+67**,S,EBERHART,10-8-180    Snow and ice removal.,2/10/2015,12:00 PM,Streets and Sanitation,1/2/1900,10,2015,41.7729764,-87.6130126
+63**,N,LAKEWOOD,10-8-180    Snow and ice removal.,2/10/2015,12:00 PM,Streets and Sanitation,1/2/1900,10,2015,41.9963695,-87.6629646
+48**,S,KEDZIE,10-8-180    Snow and ice removal.,2/10/2015,2:10 AM,Transportation,1/2/1900,10,2015,41.8062166,-87.7039123
+61**,S,ARCHER,10-8-180    Snow and ice removal.,2/10/2015,10:10 AM,Transportation,1/2/1900,10,2015,41.7945345,-87.7703513
+42**,W,47TH,10-8-180    Snow and ice removal.,2/10/2015,12:27 PM,Transportation,1/2/1900,10,2015,41.8081764,-87.7288627
+43**,S,KEDZIE,10-8-180    Snow and ice removal.,2/10/2015,2:33 AM,Transportation,1/2/1900,10,2015,41.8151761,-87.7046172
+32**,W,47TH,10-8-180    Snow and ice removal.,2/10/2015,12:42 PM,Transportation,1/2/1900,10,2015,41.8081138,-87.7039973
+24**,W,ROOSEVELT,10-8-180    Snow and ice removal.,2/10/2015,11:47 AM,Transportation,1/2/1900,10,2015,41.8666091,-87.686086
+25**,W,CERMAK,10-8-180    Snow and ice removal.,2/10/2015,11:53 AM,Transportation,1/2/1900,10,2015,41.8520077,-87.6876028
+86**,S,ASHLAND,10-8-180    Snow and ice removal.,2/10/2015,1:00 AM,Transportation,1/2/1900,10,2015,41.737028,-87.663479
+87**,S,ASHLAND,10-8-180    Snow and ice removal.,2/10/2015,1:00 AM,Transportation,1/2/1900,10,2015,41.7354919,-87.6635074
+11**,W,79TH,10-8-180    Snow and ice removal.,2/10/2015,9:25 AM,Transportation,1/2/1900,10,2015,41.750777,-87.651587
+78**,S,RACINE,10-8-180    Snow and ice removal.,2/10/2015,9:25 AM,Transportation,1/2/1900,10,2015,41.7519974,-87.6539923
+86**,S,ASHLAND,10-8-180    Snow and ice removal.,2/10/2015,12:40 PM,Transportation,1/2/1900,10,2015,41.737028,-87.663479
+94**,S,LAFLIN,10-8-180    Snow and ice removal.,2/10/2015,11:40 AM,Transportation,1/2/1900,10,2015,41.722882,-87.660624
+87**,S,ASHLAND,10-8-180    Snow and ice removal.,2/10/2015,1:10 AM,Transportation,1/2/1900,10,2015,41.7354919,-87.6635074
+87**,S,BEVERLY,10-8-180    Snow and ice removal.,2/10/2015,1:20 AM,Transportation,1/2/1900,10,2015,41.735598,-87.6726571
+56**,N,MILWAUKEE,10-8-180    Snow and ice removal.,2/10/2015,12:34 PM,Transportation,1/2/1900,10,2015,41.9830479,-87.774826
+50**,S,ARCHER,10-8-180    Snow and ice removal.,2/10/2015,11:26 AM,Transportation,1/2/1900,10,2015,41.802103,-87.724218
+29**,S,WENTWORTH,10-8-180    Snow and ice removal.,2/10/2015,1:26 AM,Transportation,1/2/1900,10,2015,41.841041,-87.6320609
+78**,S,PAULINA,10-8-180    Snow and ice removal.,2/11/2015,7:30 AM,Police,1/2/1900,11,2015,41.751968,-87.666245
+63**,S,ST LAWRENCE,4-4-310(c)     Public ways - Maintenance,2/11/2015,4:39 AM,Police,1/2/1900,11,2015,41.7803078,-87.6108082
+54**,S,INDIANA,10-8-180    Snow and ice removal.,2/11/2015,12:47 PM,Police,1/2/1900,11,2015,41.796525,-87.6209007
+74**,S,EUCLID,10-8-180    Snow and ice removal.,2/11/2015,12:00 PM,Streets and Sanitation,1/2/1900,11,2015,41.7604772,-87.5776323
+74**,S,EUCLID,10-8-180    Snow and ice removal.,2/11/2015,12:00 PM,Streets and Sanitation,1/2/1900,11,2015,41.7604772,-87.5776323
+26**,W,50TH,10-8-180    Snow and ice removal.,2/11/2015,11:50 AM,Transportation,1/2/1900,11,2015,41.803292,-87.689842
+61**,S,ARCHER,10-8-180    Snow and ice removal.,2/11/2015,3:05 AM,Transportation,1/2/1900,11,2015,41.7945345,-87.7703513
+43**,W,ADAMS,10-8-180    Snow and ice removal.,2/11/2015,12:06 PM,Transportation,1/2/1900,11,2015,41.878139,-87.73308
+75**,N,WOLCOTT,10-8-180    Snow and ice removal.,2/11/2015,10:15 AM,Transportation,1/2/1900,11,2015,42.0181655,-87.6775923
+20**,W,111TH,10-8-180    Snow and ice removal.,2/11/2015,10:15 AM,Transportation,1/2/1900,11,2015,41.6919296,-87.6719382
+20**,W,111TH,10-8-180    Snow and ice removal.,2/11/2015,10:15 AM,Transportation,1/2/1900,11,2015,41.6919296,-87.6719382
+59**,N,NORTHWEST,10-8-180    Snow and ice removal.,2/11/2015,10:12 AM,Transportation,1/2/1900,11,2015,41.9882482,-87.7920029
+28**,N,CICERO,10-8-180    Snow and ice removal.,2/11/2015,8:15 AM,Transportation,1/2/1900,11,2015,41.931773,-87.747023
+52**,S,KEDZIE,10-8-180    Snow and ice removal.,2/11/2015,2:12 AM,Transportation,1/2/1900,11,2015,41.7988694,-87.7039801
+27**,W,51ST,10-8-180    Snow and ice removal.,2/11/2015,1:02 AM,Transportation,1/2/1900,11,2015,41.8010309,-87.6915559
+36**,S,WASHTENAW,10-8-180    Snow and ice removal.,2/11/2015,8:00 AM,Transportation,1/2/1900,11,2015,41.8281593,-87.6926203
+116**,S,WALLACE,10-8-180    Snow and ice removal.,2/12/2015,10:00 AM,Police,1/2/1900,12,2015,41.684058,-87.6372844
+116**,S,WALLACE,10-8-180    Snow and ice removal.,2/12/2015,10:00 AM,Police,1/2/1900,12,2015,41.684058,-87.6372844
+116**,S,YALE,10-8-180    Snow and ice removal.,2/12/2015,10:30 AM,Police,1/2/1900,12,2015,41.6833014,-87.6291297
+116**,S,YALE,10-8-180    Snow and ice removal.,2/12/2015,10:30 AM,Police,1/2/1900,12,2015,41.6833014,-87.6291297
+75**,S,UNION,10-8-180    Snow and ice removal.,2/12/2015,3:26 AM,Police,1/2/1900,12,2015,41.7577785,-87.6420819
+75**,S,UNION,10-8-180    Snow and ice removal.,2/12/2015,3:15 AM,Police,1/2/1900,12,2015,41.7577785,-87.6420819
+116**,S,WALLACE,10-8-180    Snow and ice removal.,2/13/2015,6:00 AM,Police,1/2/1900,13,2015,41.684058,-87.6372844
+116**,S,WALLACE,10-8-180    Snow and ice removal.,2/13/2015,6:00 AM,Police,1/2/1900,13,2015,41.684058,-87.6372844
+116**,S,YALE,10-8-180    Snow and ice removal.,2/13/2015,6:15 AM,Police,1/2/1900,13,2015,41.6833014,-87.6291297
+116**,S,YALE,10-8-180    Snow and ice removal.,2/13/2015,6:15 AM,Police,1/2/1900,13,2015,41.6833014,-87.6291297
+56**,N,MAGNOLIA,10-8-180    Snow and ice removal.,2/13/2015,12:00 PM,Streets and Sanitation,1/2/1900,13,2015,41.9835766,-87.6613535
+19**,W,CHASE,10-8-180    Snow and ice removal.,2/13/2015,12:00 PM,Streets and Sanitation,1/2/1900,13,2015,42.0137025,-87.6782421
+19**,W,CHASE,10-8-180    Snow and ice removal.,2/13/2015,12:00 PM,Streets and Sanitation,1/2/1900,13,2015,42.0137025,-87.6782421
+48**,N,PAULINA,10-8-180    Snow and ice removal.,2/13/2015,12:00 PM,Streets and Sanitation,1/2/1900,13,2015,41.9688832,-87.671019
+72**,N,HAMILTON,10-8-180    Snow and ice removal.,2/13/2015,12:00 PM,Streets and Sanitation,1/2/1900,13,2015,42.0122249,-87.6849847
+9**,N,PULASKI,10-8-180    Snow and ice removal.,2/13/2015,11:47 AM,Transportation,1/2/1900,13,2015,41.8973172,-87.726376
+65**,N,CLARK,10-8-180    Snow and ice removal.,2/13/2015,2:15 AM,Transportation,1/2/1900,13,2015,41.999983,-87.6716514
+19**,W,AINSLE,10-8-180    Snow and ice removal.,2/13/2015,11:30 AM,Transportation,1/2/1900,13,2015,41.970783,-87.676683
+*,N,HARDING,10-8-180    Snow and ice removal.,2/13/2015,9:38 AM,Transportation,1/2/1900,13,2015,41.9391123,-87.7259572
+59**,W,HIGGINS,10-8-180    Snow and ice removal.,2/13/2015,7:58 AM,Transportation,1/2/1900,13,2015,41.9725487,-87.775872
+15**,E,86TH,10-8-180    Snow and ice removal.,2/13/2015,11:05 AM,Transportation,1/2/1900,13,2015,41.7380172,-87.5877078
+78**,S,DREXEL,10-8-180    Snow and ice removal.,2/14/2015,3:46 AM,Police,1/2/1900,14,2015,41.752996,-87.6031109
+78**,S,DREXEL,10-8-180    Snow and ice removal.,2/14/2015,3:50 AM,Police,1/2/1900,14,2015,41.752996,-87.6031109
+78**,S,DREXEL,10-8-180    Snow and ice removal.,2/14/2015,4:09 AM,Police,1/2/1900,14,2015,41.752996,-87.6031109
+78**,S,ELLIS,10-8-180    Snow and ice removal.,2/14/2015,3:12 AM,Police,1/2/1900,14,2015,41.7531329,-87.6003832
+78**,S,INGLESIE,10-8-180    Snow and ice removal.,2/14/2015,3:20 AM,Police,1/2/1900,14,2015,41.7531187,-87.6016064
+78**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/14/2015,3:25 AM,Police,1/2/1900,14,2015,41.7531187,-87.6016064
+78**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/14/2015,3:30 AM,Police,1/2/1900,14,2015,41.7531187,-87.6016064
+78**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/14/2015,3:35 AM,Police,1/2/1900,14,2015,41.7531187,-87.6016064
+78**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/14/2015,3:40 AM,Police,1/2/1900,14,2015,41.7531187,-87.6016064
+78**,S,MARYLAND,10-8-180    Snow and ice removal.,2/15/2015,3:38 AM,Police,1/2/1900,15,2015,41.7530948,-87.6040144
+78**,S,MARYLAND,10-8-180    Snow and ice removal.,2/15/2015,3:41 AM,Police,1/2/1900,15,2015,41.7530948,-87.6040144
+77**,S,DOBSON,10-8-180    Snow and ice removal.,2/15/2015,4:03 AM,Police,1/2/1900,15,2015,41.7549661,-87.5992065
+76**,S,DOBSON,10-8-180    Snow and ice removal.,2/15/2015,4:09 AM,Police,1/2/1900,15,2015,41.7568009,-87.5992403
+75**,S,ELLIS,10-8-180    Snow and ice removal.,2/15/2015,4:22 AM,Police,1/2/1900,15,2015,41.7586191,-87.6004984
+75**,S,ELLIS,10-8-180    Snow and ice removal.,2/15/2015,4:27 AM,Police,1/2/1900,15,2015,41.7586191,-87.6004984
+75**,S,ELLIS,10-8-180    Snow and ice removal.,2/15/2015,4:30 AM,Police,1/2/1900,15,2015,41.7586191,-87.6004984
+80**,S,PAULINA,10-8-180    Snow and ice removal.,2/17/2015,3:20 AM,Police,1/2/1900,17,2015,41.748211,-87.666163
+13**,W,GREENLEAF,10-8-180    Snow and ice removal.,2/17/2015,12:00 PM,Streets and Sanitation,1/2/1900,17,2015,42.0103873,-87.6624927
+17**,W,PRATT,10-8-180    Snow and ice removal.,2/17/2015,12:00 PM,Streets and Sanitation,1/2/1900,17,2015,42.0053433,-87.6730757
+71**,W,ARCHER,10-8-180    Snow and ice removal.,2/17/2015,12:10 PM,Transportation,1/2/1900,17,2015,41.7923902,-87.7991922
+106**,S,HALE,10-8-180    Snow and ice removal.,2/17/2015,3:15 AM,Transportation,1/2/1900,17,2015,41.7010757,-87.6695584
+50**,N,CICERO,10-8-180    Snow and ice removal.,2/17/2015,2:20 AM,Transportation,1/2/1900,17,2015,41.9717994,-87.7481674
+52**,W,LAWRENCE,10-8-180    Snow and ice removal.,2/17/2015,2:40 AM,Transportation,1/2/1900,17,2015,41.9679089,-87.7578945
+53**,N,CUMBERLAND,10-8-180    Snow and ice removal.,2/17/2015,8:32 AM,Transportation,1/2/1900,17,2015,41.9756997,-87.8366085
+52**,W,DIVERSEY,10-8-180    Snow and ice removal.,2/17/2015,7:50 AM,Transportation,1/2/1900,17,2015,41.9316629,-87.7566446
+51**,S,CICERO,10-8-180    Snow and ice removal.,2/17/2015,2:16 AM,Transportation,1/2/1900,17,2015,41.8001711,-87.7433078
+58**,S,ARCHER,10-8-180    Snow and ice removal.,2/17/2015,1:02 AM,Transportation,1/2/1900,17,2015,41.7965532,-87.758473
+50**,S,CICERO,10-8-180    Snow and ice removal.,2/17/2015,2:00 AM,Transportation,1/2/1900,17,2015,41.80169,-87.743396
+*,S,DAMEN,10-8-180    Snow and ice removal.,2/17/2015,8:00 AM,Transportation,1/2/1900,17,2015,41.8807798,-87.6766145
+23**,S,INDIANA,10-8-180    Snow and ice removal.,2/17/2015,9:00 AM,Transportation,1/2/1900,17,2015,41.850961,-87.62267
+81**,S,MARSHFIELD,10-8-180    Snow and ice removal.,2/18/2015,6:27 AM,Police,1/2/1900,18,2015,41.7465069,-87.6649562
+83**,W,FOREST PRESERVE,10-8-180    Snow and ice removal.,2/18/2015,12:00 PM,Streets and Sanitation,1/2/1900,18,2015,41.9413149,-87.8341375
+**,N,CUMBERLAND,10-8-180    Snow and ice removal.,2/18/2015,10:36 AM,Transportation,1/2/1900,18,2015,41.9655628,-87.8380564
+**,S,ARCHER,10-8-180    Snow and ice removal.,2/18/2015,8:49 AM,Transportation,1/2/1900,18,2015,41.815437,-87.7020764
+78**,S,DREXEL,10-8-180    Snow and ice removal.,2/19/2015,3:53 AM,Police,1/2/1900,19,2015,41.752996,-87.6031109
+9**,S,CALIFORNIA,10-8-180    Snow and ice removal.,2/19/2015,11:09 AM,Police,1/2/1900,19,2015,41.8698895,-87.6963538
+13**,W,GREENLEAF,10-8-180    Snow and ice removal.,2/19/2015,12:00 PM,Streets and Sanitation,1/2/1900,19,2015,42.0103873,-87.6624927
+22**,N,LAWLER,10-8-180    Snow and ice removal.,2/19/2015,12:00 PM,Streets and Sanitation,1/2/1900,19,2015,41.9206243,-87.7526488
+22**,N,LAWLER,10-8-180    Snow and ice removal.,2/19/2015,12:00 PM,Streets and Sanitation,1/2/1900,19,2015,41.9206243,-87.7526488
+47**,S,COTTAGE GROV,10-8-180    Snow and ice removal.,2/19/2015,1:30 AM,Transportation,1/2/1900,19,2015,41.809299,-87.60694
+8**,S,MICHIGAN,10-8-180    Snow and ice removal.,2/19/2015,9:30 AM,Transportation,1/2/1900,19,2015,41.8715182,-87.6247436
+23**,S,INDIANA,10-8-180    Snow and ice removal.,2/19/2015,10:00 AM,Transportation,1/2/1900,19,2015,41.850961,-87.62267
+23**,S,INDIANA,10-8-180    Snow and ice removal.,2/19/2015,9:05 AM,Transportation,1/2/1900,19,2015,41.850961,-87.62267
+3**,E,119TH,10-8-180    Snow and ice removal.,2/20/2015,7:50 AM,Police,1/2/1900,20,2015,41.6783212,-87.6163998
+119**,S,PRAIRIE,10-8-180    Snow and ice removal.,2/20/2015,7:00 AM,Police,1/2/1900,20,2015,41.6780888,-87.616591
+119**,S,PRAIRIE,10-8-180    Snow and ice removal.,2/20/2015,7:00 AM,Police,1/2/1900,20,2015,41.6780888,-87.616591
+72**,N,RIDGE,10-8-180    Snow and ice removal.,2/20/2015,12:00 PM,Streets and Sanitation,1/2/1900,20,2015,42.0126007,-87.6836427
+44**,N,AUSTIN,10-8-180    Snow and ice removal.,2/20/2015,8:30 AM,Transportation,1/2/1900,20,2015,41.9603558,-87.7770154
+47**,W,ROSCOE,10-8-180    Snow and ice removal.,2/20/2015,10:10 AM,Transportation,1/2/1900,20,2015,41.9425124,-87.7440173
+59**,W,MONTROSE,10-8-180    Snow and ice removal.,2/20/2015,8:35 AM,Transportation,1/2/1900,20,2015,41.9607211,-87.7748344
+44**,S,SPRINGFIELD,10-8-180    Snow and ice removal.,2/20/2015,10:10 AM,Transportation,1/2/1900,20,2015,41.8133821,-87.7213325
+82**,S,ST LAWRENCE,10-8-180    Snow and ice removal.,2/21/2015,4:05 AM,Police,1/2/1900,21,2015,41.7455512,-87.6102605
+3**,E,119TH,10-8-180    Snow and ice removal.,2/21/2015,7:50 AM,Police,1/2/1900,21,2015,41.6783212,-87.6163998
+119**,S,PRAIRIE,10-8-180    Snow and ice removal.,2/21/2015,7:00 AM,Police,1/2/1900,21,2015,41.6780888,-87.616591
+119**,S,PRAIRIE,10-8-180    Snow and ice removal.,2/21/2015,7:00 AM,Police,1/2/1900,21,2015,41.6780888,-87.616591
+119**,S,PRAIRIE,10-8-180    Snow and ice removal.,2/23/2015,7:00 AM,Police,1/2/1900,23,2015,41.6780888,-87.616591
+119**,S,PRAIRIE,10-8-180    Snow and ice removal.,2/23/2015,7:00 AM,Police,1/2/1900,23,2015,41.6780888,-87.616591
+3**,E,119TH,10-8-180    Snow and ice removal.,2/23/2015,7:50 AM,Police,1/2/1900,23,2015,41.6783212,-87.6163998
+75**,S,HARVARD,10-8-180    Snow and ice removal.,2/23/2015,2:50 AM,Police,1/2/1900,23,2015,41.7580837,-87.6328619
+13**,W,CHASE,10-8-180    Snow and ice removal.,2/23/2015,12:00 PM,Streets and Sanitation,1/2/1900,23,2015,42.0139335,-87.664077
+**,W,DIVISION,10-8-180    Snow and ice removal.,2/23/2015,9:50 AM,Transportation,1/2/1900,23,2015,41.9039354,-87.6286832
+24**,W,MONTROSE,10-8-180    Snow and ice removal.,2/23/2015,2:30 AM,Transportation,1/2/1900,23,2015,41.9613165,-87.6887637
+41**,N,PULASKI,10-8-180    Snow and ice removal.,2/23/2015,12:40 PM,Transportation,1/2/1900,23,2015,41.9556436,-87.7278676
+63**,N,PULASKI,10-8-180    Snow and ice removal.,2/23/2015,12:31 PM,Transportation,1/2/1900,23,2015,41.995563,-87.729213
+41**,W,LAWRENCE,10-8-180    Snow and ice removal.,2/23/2015,12:32 PM,Transportation,1/2/1900,23,2015,41.9684141,-87.7307476
+40**,W,51ST,10-8-180    Snow and ice removal.,2/23/2015,8:47 AM,Transportation,1/2/1900,23,2015,41.8005365,-87.7234858
+76**,S,MARYLAND,10-8-180    Snow and ice removal.,2/24/2015,2:50 AM,Police,1/2/1900,24,2015,41.7567468,-87.6040841
+9**,E,76TH,10-8-180    Snow and ice removal.,2/24/2015,3:05 AM,Police,1/2/1900,24,2015,41.7569912,-87.6026741
+76**,S,MARYLAND,10-8-180    Snow and ice removal.,2/24/2015,2:51 AM,Police,1/2/1900,24,2015,41.7567468,-87.6040841
+76**,S,DREXEL,10-8-180    Snow and ice removal.,2/24/2015,3:18 AM,Police,1/2/1900,24,2015,41.7567806,-87.6028897
+76**,S,DREXEL,10-8-180    Snow and ice removal.,2/24/2015,3:27 AM,Police,1/2/1900,24,2015,41.7567806,-87.6028897
+78**,S,GREENWOOD,10-8-180    Snow and ice removal.,2/24/2015,4:22 AM,Police,1/2/1900,24,2015,41.753044,-87.5981784
+36**,W,79TH,10-8-180    Snow and ice removal.,2/24/2015,10:16 AM,Transportation,1/2/1900,24,2015,41.7500372,-87.7132479
+**,W,35TH,10-8-180    Snow and ice removal.,2/24/2015,11:15 AM,Transportation,1/2/1900,24,2015,41.8310085,-87.6266247
+79**,S,ELLIS,10-8-180    Snow and ice removal.,2/25/2015,3:11 AM,Police,1/2/1900,25,2015,41.7513105,-87.6003421
+69**,N,ASHLAND,10-8-180    Snow and ice removal.,2/25/2015,12:00 PM,Streets and Sanitation,1/2/1900,25,2015,42.0066636,-87.6703515
+14**,W,35TH,10-8-180    Snow and ice removal.,2/25/2015,3:30 AM,Transportation,1/2/1900,25,2015,41.8315074,-87.6626927
+61**,S,SEELEY,10-8-180    Snow and ice removal.,2/25/2015,9:30 AM,Transportation,1/2/1900,25,2015,41.7820656,-87.6751997
+50**,S,ARCHER,10-8-180    Snow and ice removal.,2/25/2015,9:01 AM,Transportation,1/2/1900,25,2015,41.802103,-87.724218
+5**,E,61ST,10-8-180    Snow and ice removal.,2/25/2015,2:40 AM,Transportation,1/2/1900,25,2015,41.7840751,-87.6129888
+18**,W,59TH,10-8-180    Snow and ice removal.,2/25/2015,8:00 AM,Transportation,1/2/1900,25,2015,41.7866786,-87.6692701
+95**,S,RACINE,10-8-180    Snow and ice removal.,2/25/2015,3:20 AM,Transportation,1/2/1900,25,2015,41.7212695,-87.6529479
+78**,S,PAULINA,10-8-180    Snow and ice removal.,2/26/2015,2:54 AM,Police,1/2/1900,26,2015,41.751968,-87.666245
+86**,S,ASHLAND,10-8-180    Snow and ice removal.,2/26/2015,2:28 AM,Transportation,1/2/1900,26,2015,41.737028,-87.663479
+79**,S,WESTERN,10-8-180    Snow and ice removal.,2/26/2015,2:12 AM,Transportation,1/2/1900,26,2015,41.7497994,-87.6832221
+79**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/27/2015,4:12 AM,Police,1/2/1900,27,2015,41.7512849,-87.6015512
+79**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/27/2015,4:29 AM,Police,1/2/1900,27,2015,41.7512849,-87.6015512
+79**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/27/2015,4:21 AM,Police,1/2/1900,27,2015,41.7512849,-87.6015512
+79**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/27/2015,4:18 AM,Police,1/2/1900,27,2015,41.7512849,-87.6015512
+79**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/27/2015,4:15 AM,Police,1/2/1900,27,2015,41.7512849,-87.6015512
+36**,N,LEAVITT,10-8-180    Snow and ice removal.,2/27/2015,12:00 PM,Streets and Sanitation,1/2/1900,27,2015,41.9468131,-87.6834065
+59**,N,SHERIDAN,10-8-180    Snow and ice removal.,2/27/2015,12:00 PM,Streets and Sanitation,1/2/1900,27,2015,41.989241,-87.6557739
+40**,N,CENTRAL,10-8-180    Snow and ice removal.,2/27/2015,12:30 PM,Transportation,1/2/1900,27,2015,41.9538479,-87.7178101
+56**,W,WAVELAND,10-8-180    Snow and ice removal.,2/27/2015,11:45 AM,Transportation,1/2/1900,27,2015,41.9476967,-87.766819
+56**,N,WESTERN,10-8-180    Snow and ice removal.,2/27/2015,9:55 AM,Transportation,1/2/1900,27,2015,41.9833867,-87.6898106
+18**,W,DEVON,10-8-180    Snow and ice removal.,2/27/2015,2:10 AM,Transportation,1/2/1900,27,2015,41.9981869,-87.6759528
+37**,N,LAKEWOOD,10-8-180    Snow and ice removal.,2/27/2015,10:40 AM,Transportation,1/2/1900,27,2015,41.9489383,-87.6616443
+19**,W,WILSON,10-8-180    Snow and ice removal.,2/27/2015,9:30 AM,Transportation,1/2/1900,27,2015,41.9651431,-87.6761021
+43**,N,LINCOLN,10-8-180    Snow and ice removal.,2/27/2015,8:40 AM,Transportation,1/2/1900,27,2015,41.9597307,-87.6829602
+71**,W,BELMONT,10-8-180    Snow and ice removal.,2/27/2015,11:11 AM,Transportation,1/2/1900,27,2015,41.938039,-87.8042841
+44**,W,MONTROSE,10-8-180    Snow and ice removal.,2/27/2015,8:50 AM,Transportation,1/2/1900,27,2015,41.9611541,-87.7387746
+43**,W,MONTROSE,10-8-180    Snow and ice removal.,2/27/2015,9:05 AM,Transportation,1/2/1900,27,2015,41.9610783,-87.7360437
+43**,W,MONTROSE,10-8-180    Snow and ice removal.,2/27/2015,8:30 AM,Transportation,1/2/1900,27,2015,41.9610783,-87.7360437
+64**,S,ST LAWRENCE,10-8-180    Snow and ice removal.,2/27/2015,8:23 AM,Transportation,1/2/1900,27,2015,41.778364,-87.6110465
+64**,S,ST LAWRENCE,10-8-180    Snow and ice removal.,2/27/2015,8:25 AM,Transportation,1/2/1900,27,2015,41.778364,-87.6110465
+31**,S,GILES,10-8-180    Snow and ice removal.,2/27/2015,9:15 AM,Transportation,1/2/1900,27,2015,41.83813,-87.619775
+*,S,ST LAWRENCE,10-8-180    Snow and ice removal.,2/27/2015,8:27 AM,Transportation,1/2/1900,27,2015,41.7530197,-87.6101244
+75**,N,WESTERN,10-8-180    Snow and ice removal.,2/27/2015,8:55 AM,Transportation,1/2/1900,27,2015,42.0177209,-87.6902354
+80**,S,ASHLAND,10-8-180    Snow and ice removal.,2/27/2015,11:45 AM,Transportation,1/2/1900,27,2015,41.748381,-87.663763
+15**,W,81ST,10-8-180    Snow and ice removal.,2/27/2015,11:45 AM,Transportation,1/2/1900,27,2015,41.746745,-87.6609251
+79**,S,DOBSON,10-8-180    Snow and ice removal.,2/28/2015,3:05 AM,Police,1/2/1900,28,2015,41.7511156,-87.5993237
+79**,S,DOBSON,10-8-180    Snow and ice removal.,2/28/2015,3:10 AM,Police,1/2/1900,28,2015,41.7511156,-87.5993237
+77**,S,GREENWOOD,10-8-180    Snow and ice removal.,2/28/2015,3:25 AM,Police,1/2/1900,28,2015,41.7548707,-87.5983514
+78**,S,INGLESIDE,10-8-180    Snow and ice removal.,2/28/2015,3:30 AM,Police,1/2/1900,28,2015,41.7531187,-87.6016064
+78**,S,DREXEL,10-8-180    Snow and ice removal.,2/28/2015,3:40 AM,Police,1/2/1900,28,2015,41.752996,-87.6031109
+79**,S,DOBSON,10-8-180    Snow and ice removal.,2/28/2015,4:08 AM,Police,1/2/1900,28,2015,41.7511156,-87.5993237
+79**,S,DOBSON,10-8-180    Snow and ice removal.,2/28/2015,4:14 AM,Police,1/2/1900,28,2015,41.7511156,-87.5993237
+79**,S,GREENWOOD,10-8-180    Snow and ice removal.,2/28/2015,3:27 AM,Police,1/2/1900,28,2015,41.751201,-87.598247
+78**,S,MARYLAND,10-8-180    Snow and ice removal.,2/28/2015,3:54 AM,Police,1/2/1900,28,2015,41.7530948,-87.6040144
+75**,S,MARYLAND,10-8-180    Snow and ice removal.,2/28/2015,4:09 AM,Police,1/2/1900,28,2015,41.7585758,-87.6041201
+51**,W,DIVERSEY,10-8-180    Snow and ice removal.,2/28/2015,12:00 PM,Streets and Sanitation,1/2/1900,28,2015,41.9317188,-87.7542782
+78**,S,GREENWOOD,10-8-180    Snow and ice removal.,3/1/2015,3:30 AM,Police,1/3/1900,1,2015,41.753044,-87.5981784
+78**,S,GREENWOOD,10-8-180    Snow and ice removal.,3/1/2015,3:38 AM,Police,1/3/1900,1,2015,41.753044,-87.5981784
+78**,S,GREENWOOD,10-8-180    Snow and ice removal.,3/1/2015,3:46 AM,Police,1/3/1900,1,2015,41.753044,-87.5981784
+75**,S,MARYLAND,10-8-180    Snow and ice removal.,3/1/2015,4:13 AM,Police,1/3/1900,1,2015,41.7585758,-87.6041201
+77**,S,DREXEL,10-8-180    Snow and ice removal.,3/1/2015,3:20 AM,Police,1/3/1900,1,2015,41.7548126,-87.6031088
+78**,S,GREENWOOD,10-8-180    Snow and ice removal.,3/1/2015,3:30 AM,Police,1/3/1900,1,2015,41.753044,-87.5981784
+78**,S,GREENWOOD,10-8-180    Snow and ice removal.,3/1/2015,3:40 AM,Police,1/3/1900,1,2015,41.753044,-87.5981784
+78**,S,GREENWOOD,10-8-180    Snow and ice removal.,3/1/2015,3:45 AM,Police,1/3/1900,1,2015,41.753044,-87.5981784
+69**,N,SHERIDAN,10-8-180    Snow and ice removal.,3/1/2015,12:00 PM,Streets and Sanitation,1/3/1900,1,2015,42.0069394,-87.6616941
+82**,S,DOBSON,10-8-180    Snow and ice removal.,3/2/2015,3:20 AM,Police,1/3/1900,2,2015,41.7458439,-87.5989406
+81**,S,INGLESIDE,10-8-180    Snow and ice removal.,3/2/2015,3:38 AM,Police,1/3/1900,2,2015,41.7474931,-87.6017913
+81**,S,ELLIS,10-8-180    Snow and ice removal.,3/2/2015,3:54 AM,Police,1/3/1900,2,2015,41.7475265,-87.6004509
+82**,S,DOBSON,10-8-180    Snow and ice removal.,3/2/2015,3:20 AM,Police,1/3/1900,2,2015,41.7458439,-87.5989406
+81**,S,INGLESIDE,10-8-180    Snow and ice removal.,3/2/2015,3:35 AM,Police,1/3/1900,2,2015,41.7474931,-87.6017913
+81**,S,ELLIS,10-8-180    Snow and ice removal.,3/2/2015,3:50 AM,Police,1/3/1900,2,2015,41.7475265,-87.6004509
+83**,W,FOREST PRESER,10-8-180    Snow and ice removal.,3/2/2015,10:45 AM,Police,1/3/1900,2,2015,41.9413149,-87.8341375
+90**,S,DAUPHIN,10-8-180    Snow and ice removal.,3/3/2015,3:16 AM,Police,1/3/1900,3,2015,41.7310399,-87.6027093
+90**,S,DAUPHIN,10-8-180    Snow and ice removal.,3/3/2015,3:30 AM,Police,1/3/1900,3,2015,41.7310399,-87.6027093
+8**,E,89TH,10-8-180    Snow and ice removal.,3/3/2015,3:28 AM,Police,1/3/1900,3,2015,41.7329951,-87.6046146
+67**,S,PRAIRE,10-8-180    Snow and ice removal.,3/3/2015,12:41 PM,Police,1/3/1900,3,2015,41.7728989,-87.6186715
+68**,S,PRIARIE,10-8-180    Snow and ice removal.,3/3/2015,12:40 PM,Police,1/3/1900,3,2015,41.7710802,-87.6186025
+67**,S,PRAIRIE,10-8-180    Snow and ice removal.,3/3/2015,12:42 PM,Police,1/3/1900,3,2015,41.7728989,-87.6186715
+67**,S,INDIANA,10-8-180    Snow and ice removal.,3/3/2015,1:04 AM,Police,1/3/1900,3,2015,41.7726346,-87.6207495
+67**,S,MICHIGAN,10-8-180    Snow and ice removal.,3/3/2015,12:54 PM,Police,1/3/1900,3,2015,41.7728282,-87.621892
+69**,S,KIMBARK,10-8-180    Snow and ice removal.,3/3/2015,12:12 PM,Police,1/3/1900,3,2015,41.769767,-87.5943659
+70**,S,VERNON,10-8-180    Snow and ice removal.,3/3/2015,1:15 AM,Police,1/3/1900,3,2015,41.767427,-87.614446
+69**,S,KIMBARK,10-8-180    Snow and ice removal.,3/3/2015,12:36 PM,Police,1/3/1900,3,2015,41.769767,-87.5943659
+12**,E,69TH,10-8-180    Snow and ice removal.,3/3/2015,12:36 PM,Police,1/3/1900,3,2015,41.770133,-87.59574
+19**,W,47TH,10-8-180    Snow and ice removal.,3/3/2015,12:00 PM,Streets and Sanitation,1/3/1900,3,2015,41.8087817,-87.6724262
+47**,N,CAMPBELL,10-8-180    Snow and ice removal.,3/3/2015,12:00 PM,Streets and Sanitation,1/3/1900,3,2015,41.966903,-87.691621
+66**,S,CAMPBELL,10-8-180    Snow and ice removal.,3/3/2015,12:30 PM,Transportation,1/3/1900,3,2015,41.773615,-87.686278
+29**,S,WENTWORTH,10-8-180    Snow and ice removal.,3/3/2015,1:30 AM,Transportation,1/3/1900,3,2015,41.841041,-87.6320609
+25**,W,MARQUETTE,10-8-180    Snow and ice removal.,3/3/2015,12:25 PM,Transportation,1/3/1900,3,2015,41.7721919,-87.6861213
+42**,W,47TH,10-8-180    Snow and ice removal.,3/3/2015,12:17 PM,Transportation,1/3/1900,3,2015,41.8081764,-87.7288627
+40**,W,51ST,10-8-180    Snow and ice removal.,3/3/2015,2:13 AM,Transportation,1/3/1900,3,2015,41.8005365,-87.7234858
+63**,N,CALIFORNIA,10-8-180    Snow and ice removal.,3/3/2015,9:45 AM,Transportation,1/3/1900,3,2015,41.9960996,-87.6999086
+99**,S,WALDEN,10-8-180    Snow and ice removal.,3/3/2015,12:10 PM,Transportation,1/3/1900,3,2015,41.7138893,-87.6676323
+64**,W,GRAND,10-8-180    Snow and ice removal.,3/3/2015,8:45 AM,Transportation,1/3/1900,3,2015,41.9242817,-87.7860674
+82**,S,MARSHFIELD,10-8-180    Snow and ice removal.,3/4/2015,4:24 AM,Police,1/3/1900,4,2015,41.7447407,-87.6647916
+80**,S,PAULINA,10-8-180    Snow and ice removal.,3/4/2015,5:01 AM,Police,1/3/1900,4,2015,41.748211,-87.666163
+69**,S,ANTHONY,10-8-180    Snow and ice removal.,3/4/2015,11:00 AM,Police,1/3/1900,4,2015,41.7694524,-87.6136367
+69**,S,EBERHART,10-8-180    Snow and ice removal.,3/4/2015,10:47 AM,Police,1/3/1900,4,2015,41.7689195,-87.6129372
+67**,S,INDIANA,10-8-180    Snow and ice removal.,3/4/2015,11:54 AM,Police,1/3/1900,4,2015,41.7726346,-87.6207495
+70**,S,EBERHART,10-8-180    Snow and ice removal.,3/4/2015,10:19 AM,Police,1/3/1900,4,2015,41.7674311,-87.6131355
+70**,S,EBERHART,10-8-180    Snow and ice removal.,3/4/2015,10:17 AM,Police,1/3/1900,4,2015,41.7674311,-87.6131355
+70**,S,VERNON,10-8-180    Snow and ice removal.,3/4/2015,10:01 AM,Police,1/3/1900,4,2015,41.767427,-87.614446
+69**,S,INDIANA,10-8-180    Snow and ice removal.,3/4/2015,11:48 AM,Police,1/3/1900,4,2015,41.7692391,-87.6202091
+69**,S,INDIANA,10-8-180    Snow and ice removal.,3/4/2015,11:42 AM,Police,1/3/1900,4,2015,41.7692391,-87.6202091
+69**,S,INDIANA,10-8-180    Snow and ice removal.,3/4/2015,11:33 AM,Police,1/3/1900,4,2015,41.7692391,-87.6202091
+67**,S,INDIANA,10-8-180    Snow and ice removal.,3/4/2015,1:02 AM,Police,1/3/1900,4,2015,41.7726346,-87.6207495
+77**,N,SHERIDAN,10-8-180    Snow and ice removal.,3/4/2015,12:00 PM,Streets and Sanitation,1/3/1900,4,2015,42.0211192,-87.6665757
+20**,W,BIRCHWOOD,10-8-180    Snow and ice removal.,3/4/2015,12:00 PM,Streets and Sanitation,1/3/1900,4,2015,42.018185,-87.680654
+6**,W,SCHUBERT,10-8-180    Snow and ice removal.,3/4/2015,12:00 PM,Streets and Sanitation,1/3/1900,4,2015,41.9318254,-87.6445952
+59**,N,SHERIDAN,10-8-180    Snow and ice removal.,3/4/2015,12:00 PM,Streets and Sanitation,1/3/1900,4,2015,41.989241,-87.6557739
+13**,W,CHASE,10-8-180    Snow and ice removal.,3/4/2015,12:00 PM,Streets and Sanitation,1/3/1900,4,2015,42.0139335,-87.664077
+63**,N,LAKEWOOD,10-8-180    Snow and ice removal.,3/4/2015,12:00 PM,Streets and Sanitation,1/3/1900,4,2015,41.9963695,-87.6629646
+20**,W,BIRCHWOOD,10-8-180    Snow and ice removal.,3/4/2015,12:00 PM,Streets and Sanitation,1/3/1900,4,2015,42.018185,-87.680654
+63**,N,WAYNE,10-8-180    Snow and ice removal.,3/4/2015,11:20 AM,Transportation,1/3/1900,4,2015,41.9964828,-87.6644475
+37**,S,CALIFORNIA,10-8-180    Snow and ice removal.,3/4/2015,8:48 AM,Transportation,1/3/1900,4,2015,41.8263808,-87.6947052
+37**,S,CALIFORNIA,10-8-180    Snow and ice removal.,3/4/2015,8:50 AM,Transportation,1/3/1900,4,2015,41.8263808,-87.6947052
+47**,W,50TH,10-8-180    Snow and ice removal.,3/4/2015,8:25 AM,Transportation,1/3/1900,4,2015,41.802179,-87.7405465
+49**,W,IRVING PARK,10-8-180    Snow and ice removal.,3/4/2015,8:01 AM,Transportation,1/3/1900,4,2015,41.9536204,-87.7500191
+78**,S,GREENWODO,10-8-180    Snow and ice removal.,3/5/2015,3:38 AM,Police,1/3/1900,5,2015,41.753044,-87.5981784
+78**,S,GREENWODO,10-8-180    Snow and ice removal.,3/5/2015,3:00 AM,Police,1/3/1900,5,2015,41.753044,-87.5981784
+78**,S,LANGLEY,10-8-180    Snow and ice removal.,3/5/2015,4:10 AM,Police,1/3/1900,5,2015,41.7530342,-87.6077093
+69**,S,PRAIRIE,10-8-180    Snow and ice removal.,3/5/2015,11:04 AM,Police,1/3/1900,5,2015,41.7692668,-87.6185518
+2**,E,71,10-8-180    Snow and ice removal.,3/5/2015,10:46 AM,Police,1/3/1900,5,2015,41.7656021,-87.6200982
+70**,S,RHODES,10-8-180    Snow and ice removal.,3/5/2015,2:00 AM,Police,1/3/1900,5,2015,41.767552,-87.610199
+67**,S,ST LAWRENCE,10-8-180    Snow and ice removal.,3/5/2015,2:17 AM,Police,1/3/1900,5,2015,41.7730225,-87.6106298
+70**,S,RHODES,10-8-180    Snow and ice removal.,3/5/2015,2:10 AM,Police,1/3/1900,5,2015,41.767552,-87.610199
+69**,S,INDIANA,10-8-180    Snow and ice removal.,3/5/2015,10:02 AM,Police,1/3/1900,5,2015,41.7692391,-87.6202091
+69**,S,INDIANA,10-8-180    Snow and ice removal.,3/5/2015,10:05 AM,Police,1/3/1900,5,2015,41.7692391,-87.6202091
+81**,S,ELIZABETH,10-8-180    Snow and ice removal.,3/5/2015,10:35 AM,Transportation,1/3/1900,5,2015,41.7468146,-87.6548471
+12**,W,81ST,10-8-180    Snow and ice removal.,3/5/2015,10:35 AM,Transportation,1/3/1900,5,2015,41.7468464,-87.6536492
+92**,S,SAGINAW,10-8-180    Snow and ice removal.,3/6/2015,12:00 PM,Streets and Sanitation,1/3/1900,6,2015,41.7281165,-87.5595016
+20**,W,BIRCHWOOD,10-8-180    Snow and ice removal.,3/6/2015,12:00 PM,Streets and Sanitation,1/3/1900,6,2015,42.018185,-87.680654
+20**,W,BIRCHWOOD,10-8-180    Snow and ice removal.,3/6/2015,12:00 PM,Streets and Sanitation,1/3/1900,6,2015,42.018185,-87.680654
+36**,N,LEAVITT,10-8-180    Snow and ice removal.,3/6/2015,10:45 AM,Transportation,1/3/1900,6,2015,41.9468131,-87.6834065
+25**,W,ADDISON,10-8-180    Snow and ice removal.,3/6/2015,11:15 AM,Transportation,1/3/1900,6,2015,41.946964,-87.691095
+67**,S,RACINE,10-8-180    Snow and ice removal.,3/7/2015,8:13 AM,Police,1/3/1900,7,2015,41.7723034,-87.6543178
+83**,S,KERFOOT,10-8-180    Snow and ice removal.,3/7/2015,2:45 AM,Police,1/3/1900,7,2015,41.7433964,-87.6418076
+81**,S,PERRY,10-8-180    Snow and ice removal.,3/8/2015,5:30 AM,Police,1/3/1900,8,2015,41.7472493,-87.626938
+48**,S,WINCHESTER,10-8-180    Snow and ice removal.,3/9/2015,8:00 AM,Transportation,1/3/1900,9,2015,41.8065726,-87.673623
+50**,N,WINCHESTER,10-8-180    Snow and ice removal.,3/9/2015,9:00 AM,Transportation,1/3/1900,9,2015,41.972599,-87.67821
+11**,W,MAXWELL,10-8-180    Snow and ice removal.,3/10/2015,10:30 AM,Transportation,1/3/1900,10,2015,41.8646625,-87.6544043
+61**,S,DR MARTIN LUTHER KING JR,10-8-180    Snow and ice removal.,3/24/2015,12:00 PM,Streets and Sanitation,1/3/1900,24,2015,41.7836973,-87.6157011
+20**,W,BIRCHWOOD,10-8-180    Snow and ice removal.,3/25/2015,12:00 PM,Streets and Sanitation,1/3/1900,25,2015,42.018185,-87.680654
+76**,S,DREXEL,10-8-180    Snow and ice removal.,4/24/2015,3:25 AM,Police,1/4/1900,24,2015,41.7567806,-87.6028897
